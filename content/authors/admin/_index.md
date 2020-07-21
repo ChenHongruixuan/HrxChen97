@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hongruixuan Chen
 
 # Username (this should match the folder name)
 authors:
@@ -41,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'Qschrx@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=XOk4Cf0AAAAJ 
+-icon: ResearchGate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Hongruixuan_Chen?ev=hdr_xprf&_sg=m_upI6H0nFHCF7k-Z5k0BhA2QdEdN0UwMfBC-ohjXdgEbHaUQAxO1p_iOD4dIZ_OdH5qTtFfY_12cwuydR__AAYq
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/I-Hope-Peace
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
