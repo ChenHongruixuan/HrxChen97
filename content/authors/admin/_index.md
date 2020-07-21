@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student of Photogrammetry and Remote Sensing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Wuhan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep learning
+- Image Processing
+- Multi-temporal Image Processing and Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Photogrammetry and Remote Sensing
+    institution: State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
+    year: 2019-Now
+  - course: BSc in Geomatics Engineering
+    institution: School of Resources and Environmental Engineering, Anhui University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
