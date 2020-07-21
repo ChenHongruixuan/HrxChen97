@@ -45,7 +45,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=XOk4Cf0AAAAJ 
--icon: ResearchGate
+- icon: ResearchGate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Hongruixuan_Chen?ev=hdr_xprf&_sg=m_upI6H0nFHCF7k-Z5k0BhA2QdEdN0UwMfBC-ohjXdgEbHaUQAxO1p_iOD4dIZ_OdH5qTtFfY_12cwuydR__AAYq
 - icon: github
