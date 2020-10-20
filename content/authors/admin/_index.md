@@ -8,12 +8,20 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include deep learning, remote sensing image
+  processing and multitemporal remote sensing image change detection.
 interests:
-  - Deep learning
+  - Remote Sensing Image Analysis
   - Image Processing
-  - Multi-temporal Image Processing and Analysis
+  - Change Detection
+  - Deep Learning
+  - Machine Learning
+  - Transfer Learning
+  - Domain Adaptation
+  - Unsupervised Learning
+  - Weakly-supervised Learning
+  - Point Cloud
+  - Indoor Positioning
 social:
   - icon: envelope
     icon_pack: fas
