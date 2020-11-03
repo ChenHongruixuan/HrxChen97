@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors & Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,122 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = ""
+  organization_url = ""
+  title = "National Scholarship for Postgraduates | Top 1 in 169"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "LIESMARS Scholarship for Excellent First-Year Postgraduates | Top 9 in 169"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Excellent Graduates of Anhui Province, China | Top 1%"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "GuoSen Scholarship"
+  url = ""
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = "Two First Prizes and One Second Prize of Academic Scholarship of Anhui University"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "National Scholarship for Undergraduates | Top 0.8%"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Anhui University Scholarship for Excellent Students"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Second Prize of ESRI Cup GIS Software Development Contest in China | Top 6 in 105"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Second Prize of GIS Contest in Anhui Province | Top 5%"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Outstanding Prize of National Survey and Mapping Contest in Programming | Top 3 in 113"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-07-01"
+  date_end = ""
+  description = "The first time for universities in Anhui Province to win the prize"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Meritorious Winner of the US Mathematical Contest in Modeling"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Second Prize of China National Mathematical Contest in Modeling | Top 3%"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = ""
 +++

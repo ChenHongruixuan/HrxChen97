@@ -43,12 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: ai
+  link: 'https://www.researchgate.net/profile/Hongruixuan_Chen'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=XOk4Cf0AAAAJ
@@ -74,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing the M.S. degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote sensing, Wuhan University, Wuhan, China. My research interests include deep learning, remote sensing image processing and multitemporal remote sensing image change detection.
+Hi, I am Hongruixuan CHEN, welcome to my personal website. My Life motto is: where of what's past is prologue. 
+
+I am currently pursuing the M.S. degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote sensing, Wuhan University, Wuhan, China. My research interests include deep learning, remote sensing image processing and multitemporal remote sensing image change detection. 
