@@ -14,7 +14,7 @@ organizations:
   url: "http://www.whu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, remote sensing image processing and multitemporal remote sensing image change detection. 
 
 interests:
 - Remote Sensing Image Analysis
