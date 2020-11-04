@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Indoor/Outdoor Seamless Positioning and Navigation System Integrated with Multi-sensor of Mobile Phone"
-summary: ""
-authors: []
-tags: []
+title: "In-outdoor Seamless Positioning and Navigation System"
+summary: "This project is my National Undergraduate Innovation and Entrepreneurship Project. The Project goal is to design and develops an in-outdoor seamless positioning and navigation system integrated with multi-sensor of mobile phone."
+authors: [Hongruixuan Chen, Haonan Lu, Fuming Xu, Zhiyu Lin]
+tags: [Indoor Positioning, Android, Java, All]
 categories: []
-date: 2020-11-04T17:23:22+08:00
+date: 2018-11-04T17:23:22+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/I-Hope-Peace/In-outdoorSeamlessPositioningNavigationSystem"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
