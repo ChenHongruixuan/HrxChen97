@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "In-outdoor Seamless Positioning and Navigation System"
-summary: "This project is my National Undergraduate Innovation and Entrepreneurship Project. The Project goal is to design and develops an in-outdoor seamless positioning and navigation system integrated with multi-sensor of mobile phone."
+summary: "This project is my National Undergraduate Innovation and Entrepreneurship Project. The Project goal is to design and develops an in-outdoor seamless positioning and navigation system integrated with multi-sensor of mobile phone. I am the initiator and team leader of this project"
 authors: [Hongruixuan Chen, Haonan Lu, Fuming Xu, Zhiyu Lin]
 tags: [Indoor Positioning, Android, Java, All]
 categories: []

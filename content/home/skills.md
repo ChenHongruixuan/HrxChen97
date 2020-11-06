@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills & Activites"
+title = "Skills & Activities"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -32,11 +32,11 @@ subtitle = ""
   name = "Software"
   description = "MATLAB, ENVI, ArcGIS, eCognition, GoogleEarth, SPSS, Lingo, Geoda, AutoCAD, Photoshop, CityEngine, SketchUp" 
 
-# [[feature]]
-  # icon = ""
-  # icon_pack = ""
-  # name = "Reviewer"
-  # description = "IEEE TIP, IEEE TGRS, IEEE JSTARS"  
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Reviewer"
+  description = "IEEE TIP, IEEE TGRS, IEEE JSTARS"  
 
 # Uncomment to use emoji icons.
 # [[feature]]

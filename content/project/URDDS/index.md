@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AAAAAAAA"
-summary: ""
-authors: []
-tags: []
+title: "Urban Road Defect Detection System Based on Deep Learning"
+summary: "Designed and established the framework of the urban road defect detection system. This system can collect road video data and coresponding GPS trajectory data. A deep learning model is applied to recognize the road defect situaion according to the video data. The detection results can be drawn in the map according to GPS data."
+authors: [Hongruixuan Chen]
+tags: [Android, Java, Deep Learning, All]
 categories: []
-date: 2020-11-06T16:18:33+08:00
+date: 2020-11-03T16:18:33+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
