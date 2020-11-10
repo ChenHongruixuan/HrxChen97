@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Java"
     tag = "Java"
+  
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
 
   [[content.filter_button]]
     name = "Deep Learning"

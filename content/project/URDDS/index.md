@@ -6,7 +6,7 @@ summary: "Designed and established the framework of the urban road defect detect
 authors: [Hongruixuan Chen]
 tags: [Android, Java, Deep Learning, All]
 categories: []
-date: 2020-11-03T16:18:33+08:00
+date: 2018-03-03T16:18:33+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
