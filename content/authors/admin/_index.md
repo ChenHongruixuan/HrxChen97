@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-  - course: MEng in Photogrammetry and Remote Sensing
+  - course: M.S. in Photogrammetry and Remote Sensing
     institution: State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
     year: 2019-Present
-  - course: BSc in Geomatics Engineering
+  - course: B.S. in Geomatics Engineering
     institution: School of Resources and Environmental Engineering, Anhui University
     year: 2015-2019
 
