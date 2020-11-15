@@ -14,6 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
 [[feature]]
   icon = ""
   icon_pack = ""
@@ -36,7 +37,13 @@ subtitle = ""
   icon = ""
   icon_pack = ""
   name = "Reviewer"
-  description = "IEEE TIP, IEEE TGRS, IEEE JSTARS"  
+  description = "IEEE TIP, IEEE TGRS, IEEE JSTARS" 
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Interests"
+  description = "Playing table tennis, Roller skating, Outdoor cycling, Reading, Watching movies, Programming" 
 
 # Uncomment to use emoji icons.
 # [[feature]]

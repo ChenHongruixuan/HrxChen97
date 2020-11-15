@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include deep learning, remote sensing image processing and multitemporal remote sensing image change detection. 
 
 interests:
-- Remote Sensing Image Analysis
+- Remote Sensing Image Interpretation
 - Image Processing
 - Change Detection
 - Deep Learning
