@@ -9,9 +9,15 @@
   weight = 10
 
 [[main]]
-  name = "Skills & Activities"
+  name = "Skills"
   url = "#skills"
   weight = 20
+
+[[main]]
+  name = "Education"
+  url = "#experience"
+  weight = 23
+
 
 [[main]]
   name = "Projects"
@@ -24,7 +30,7 @@
   weight = 25
 
 [[main]]
-  name = "Awards"
+  name = "Contest"
   url = "#accomplishments"
   weight = 24
 

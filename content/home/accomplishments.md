@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Honors & Awards"
+title = "Contest"
 subtitle = ""
 
 # Date format
@@ -17,76 +17,6 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "National Scholarship for Postgraduates | Top 1 in 169"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "LIESMARS Scholarship for Excellent First-Year Postgraduates | Top 9 in 169"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Excellent Graduates of Anhui Province, China | Top 1%"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-06-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "GuoSen Scholarship"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Two First Prizes and One Second Prize of Academic Scholarship of Anhui University"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "National Scholarship for Undergraduates | Top 0.8%"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Anhui University Scholarship for Excellent Students"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-10-01"
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = ""
