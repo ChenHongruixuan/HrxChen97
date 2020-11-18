@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-07-01"
   date_end = ""
-  description = "The first time for universities in Anhui Province to win the prize"
+  description = "I was the leader of the programming group of our school in this contest. We developed a leveling software using VB.Net. The established software could read in the given observation data files, display them in the form of table, realize the indirect adjustment of leveling route, draw the leveling route map, and finally output the leveling map and related achievement files according to the specified format. This is the first time for universities in Anhui Province to win the outstanding prize."
 
 [[item]]
   organization = ""
