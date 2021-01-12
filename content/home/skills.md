@@ -33,11 +33,6 @@ subtitle = ""
   name = "Software"
   description = "MATLAB, ENVI, ArcGIS, eCognition, GoogleEarth, SPSS, Lingo, Geoda, AutoCAD, Photoshop, CityEngine, SketchUp" 
 
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  name = "Reviewer"
-  description = "IEEE TIP, IEEE TGRS, IEEE JSTARS" 
 
 [[feature]]
   icon = ""
@@ -45,6 +40,11 @@ subtitle = ""
   name = "Interests"
   description = "Playing table tennis, Roller skating, Outdoor cycling, Reading, Watching movies, Programming" 
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Reviewer"
+  description = "IEEE TIP, IEEE TNNLS, IEEE TGRS, IEEE GRSL, IEEE JSTARS" 
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
