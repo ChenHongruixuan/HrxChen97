@@ -72,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am CHEN Hongruixuan, welcome to my personal website. My Life motto is: where of what’s past is prologue. 
+Hi, I am CHEN Hongruixuan, welcome to my personal website. My Life motto is: where of what’s past is prologue.
 
-I am currently pursuing the M.S. degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote sensing, Wuhan University, Wuhan, China. My research interests include deep learning, remote sensing image processing, and multitemporal remote sensing image change detection. You can call me a RSer fascinated by the magic of remote sensing image processing and deep learning. The further pursuit of knowledge makes me an enthusiastic applicant for doctoral programs. 
+I am currently pursuing the M.S. degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote sensing (LIESMARS), Wuhan University, Wuhan, China. My research interests include deep learning, remote sensing image processing, and multi-temporal remote sensing image change detection. You can call me an RSer fascinated by the magic of remote sensing image processing and deep learning. Welcome send emails to me to discuss related problems of remote sensing image processing and deep learning. Now, the further pursuit of knowledge makes me an enthusiastic applicant for doctoral programs.
+
+By the way, in my spare time, I would read books, watch movies, play PC games, and exercise. My favorite writers are J.R.R. Tolkien, Gabriel García Márquez, Lu Xun, and LIU Cixin. I am deeply attracted by their works. And I watch all kinds of movies, but the ones that fascinate me the most are The Lord of the Rings, The Legend of 1900, and Schindler's List. As for games, open-world games, such as The Elder Scrolls and The Witcher 3, are my favorites. If you are also interested in the above works, welcome to contact me, let’s share the elation brought by these great works.
