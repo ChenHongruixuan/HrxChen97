@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hongruixuan CHEN
+title: CHEN Hongruixuan
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Hongruixuan CHEN, welcome to my personal website. My Life motto is: where of what's past is prologue. 
+Hi, I am CHEN Hongruixuan, welcome to my personal website. My Life motto is: where of what’s past is prologue. 
 
 I am currently pursuing the M.S. degree with the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote sensing, Wuhan University, Wuhan, China. My research interests include deep learning, remote sensing image processing, and multitemporal remote sensing image change detection. You can call me a RSer fascinated by the magic of remote sensing image processing and deep learning. The further pursuit of knowledge makes me an enthusiastic applicant for doctoral programs. 
