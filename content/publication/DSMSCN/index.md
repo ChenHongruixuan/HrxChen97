@@ -3,7 +3,7 @@
 
 title: "Change Detection in Multi-temporal VHR Images Based on Deep Siamese Multi-scale Convolutional Neural Network"
 authors: []
-date: 2020-06-04T16:40:51+08:00
+date: 2020-03-04T16:40:51+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
