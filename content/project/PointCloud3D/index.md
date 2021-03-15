@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "A Deep Learning Method for Point Cloud Classification"
-summary: "Preprocessed indoor point cloud data, and trained the PointSIFT model on ScanNet dataset for classifying indoor point cloud data. Designed and implemented a point cloud visualization tool based on OpenCV and Python, which could be used to visualize the segmentation results obtained by deep models."
+summary: "In this project, I was responsible for preprocessing indoor point cloud data, and training the PointSIFT model on the ScanNet dataset for classifying indoor point cloud data. Also, I designed and implemented a point cloud visualization tool based on OpenCV and Python, which could be used to visualize the segmentation results obtained by deep models."
 authors: [Hongruixuan Chen]
 tags: [Python, Deep Learning, All]
 categories: []

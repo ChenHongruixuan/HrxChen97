@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Urban Road Defect Detection System Based on Deep Learning"
-summary: "Designed and established the framework of the urban road defect detection system. This system can collect road video data and coresponding GPS trajectory data. A deep learning model is applied to recognize the road defect situaion according to the video data. The detection results can be drawn in the map according to GPS data."
+summary: "In this project, we designed and established the framework of the urban road defect detection system. This system can collect road video data and coresponding GPS trajectory data. A deep learning model is applied to recognize the road defect situaion according to the video data. The detection results can be drawn in the map according to GPS data."
 authors: [Hongruixuan Chen]
 tags: [Android, Java, Deep Learning, All]
 categories: []
