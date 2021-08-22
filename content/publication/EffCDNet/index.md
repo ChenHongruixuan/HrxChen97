@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
+url_pdf: https://arxiv.org/abs/2108.08157
+url_code: https://github.com/I-Hope-Peace/EffCDNet
+url_dataset: https://github.com/I-Hope-Peace/ChangeDetectionRepository/tree/master/Dataset
 url_poster:
 url_project:
 url_slides:
