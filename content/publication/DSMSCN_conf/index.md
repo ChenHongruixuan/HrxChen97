@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8866947/
 url_code: https://github.com/I-Hope-Peace/DSMSCN
-url_dataset:
-url_poster:
+url_dataset: https://github.com/I-Hope-Peace/ChangeDetectionRepository/tree/master/Dataset/SZTAKI_AirChange_Benchmark
+url_poster: 
 url_project:
 url_slides:
 url_source:

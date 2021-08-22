@@ -38,7 +38,7 @@ featured: false
 
 url_pdf: https://arxiv.org/abs/1906.11479
 url_code: https://github.com/I-Hope-Peace/DSMSCN
-url_dataset:
+url_dataset: https://github.com/I-Hope-Peace/ChangeDetectionRepository/tree/master/Dataset/SZTAKI_AirChange_Benchmark
 url_poster:
 url_project:
 url_slides:
