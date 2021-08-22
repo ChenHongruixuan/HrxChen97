@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  GPA: 4.05/5.0   
+  GPA: 91.2/100  
   Scholarship and honors include:
   * National Scholarship for Postgraduates (Top 1 in 169)
   * LIESMARS Scholarship for Excellent First-Year Postgraduates (Top 9 in 169)
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """
-  GPA: 4.40/5.0 (rank:1/230)   
+  GPA: 94.4/100 (rank:1/230)   
   Scholarship and honors include:
   * Excellent Graduate of Anhui Province, China (Top 1%)
   * Excellent Graduate Student of Anhui University  
