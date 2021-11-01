@@ -27,9 +27,11 @@ date_format = "Jan 2006"
   description = """
   GPA: 91.2/100  
   Scholarship and honors include:
-  * National Scholarship for Postgraduates (Top 1 in 169)
+  * National Scholarship for Postgraduates in 2021 (Top 1%)
+  * National Scholarship for Postgraduates in 2020 (Top 1%)
+  * Frist Prize of Wuhan University Scholarship for Excellent Postgraduate in 2021 (Top 5%)
+  * Frist Prize of Wuhan University Scholarship for Excellent Postgraduate in 2020 (Top 5%)
   * LIESMARS Scholarship for Excellent First-Year Postgraduates (Top 9 in 169)
-  * Frist Prize of Wuhan University Scholarship for Excellent Postgraduate (Top 5%)
   * Wuhan University Scholarship for Excellent First-Year Postgraduates
   """
 
