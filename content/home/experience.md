@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Education"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,6 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Trainee at the United Nations Institute for Training and Research (UNITAR)"
+  company = "Humanitarian Support and AI Development of UNOSAT"
+  company_url = "https://unitar.org/"
+  location = "Switzerland, Geneva"
+  date_start = "2021-05-13"
+  date_end = ""
+  description = """
+  I am currently working together with Researcher Sofia Vallecorsa at CERN and Researcher Edoardo Nemni at UNITAR. My responsibilities are as follows:
+  * Exploration and implementation of machine learning algorithms for various applications using optical and radar satellite imagery. 
+  * Development of code and software to implement the needed workflow and pipeline to prepare satellite imagery for AI-based analysis and conversion of results to standard geospatial formats.
+  * Participation in UNOSAT AI efforts on refugee settlement mapping, flood mapping, vegetation mapping, damage assessment, simulated imagery, and other topics.
+  """
+
 [[experience]]
   title = "State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University"
   company = "M.S. in Photogrammetry and Remote Sensing"
