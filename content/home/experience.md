@@ -41,6 +41,7 @@ date_format = "Jan 2006"
   description = """
   GPA: 91.2/100  
   Scholarship and honors include:
+  * Wang Zhizhuo Innovation Talent Scholarship
   * National Scholarship for Postgraduates in 2021 (Top 1%)
   * National Scholarship for Postgraduates in 2020 (Top 1%)
   * Frist Prize of Wuhan University Scholarship for Excellent Postgraduate in 2021 (Top 5%)
