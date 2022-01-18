@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-13"
   date_end = ""
   description = """
-  I am currently working together with Researcher Sofia Vallecorsa at CERN and Researcher Edoardo Nemni at UNITAR. My responsibilities are as follows:
+  I am currently working together with Edoardo Nemni and Lars Bromley of UNOSAT and Dr. Sofia Vallecorsa of CERN. My responsibilities are as follows:
   * Exploration and implementation of machine learning algorithms for various applications using optical and radar satellite imagery. 
   * Development of code and software to implement the needed workflow and pipeline to prepare satellite imagery for AI-based analysis and conversion of results to standard geospatial formats.
   * Participation in UNOSAT AI efforts on refugee settlement mapping, flood mapping, vegetation mapping, damage assessment, simulated imagery, and other topics.

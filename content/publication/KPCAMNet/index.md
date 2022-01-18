@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unsupervised Change Detection in Multi-temporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network"
+title: "Unsupervised Change Detection in Multitemporal VHR Images Based on Deep Kernel PCA Convolutional Mapping Network"
 authors: [Chen Wu, Hongruixuan Chen, Bo Do, Liangpei Zhang]
 date: 2021-06-01T16:23:17+08:00
 doi: ""

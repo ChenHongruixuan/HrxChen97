@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cross-domain Semantic Segmentation via Low-level Edge Information Transfer"
+title: "Unsupervised Domain Adaptation Semantic Segmentation via Low-level Edge Information Transfer"
 authors: [Hongruixuan Chen, Chen Wu, Yonghao Xu, Bo Do]
 date: 2021-03-04T14:44:11+08:00
 doi: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2109.08912
 url_code:
 url_dataset:
 url_poster:
