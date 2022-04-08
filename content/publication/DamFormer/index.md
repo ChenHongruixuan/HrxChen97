@@ -13,11 +13,11 @@ publishDate: 2022-01-29T16:33:13+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Proceeding of the IEEE International Geoscience and Remote Sensing Symposium 2022"
+publication_short: "IGARSS"
 
 abstract: "Accurate and fine-grained information about the extent of damage to buildings is essential for humanitarian relief and disaster response. However, as the most commonly used architecture in remote sensing interpretation tasks, Convolutional Neural Networks (CNNs) have limited ability to model the non-local relationship between pixels. Recently, Transformer architecture first proposed for modeling long-range dependency in natural language processing has shown promising results in computer vision tasks. Considering the frontier advances of Transformer architecture in the computer vision field, in this paper, we present the first attempt at designing a Transformer-based damage assessment architecture (DamFormer). In DamFormer, a siamese Transformer encoder is first constructed to extract non-local and representative deep features from input multitemporal image-pairs. Then, a multitemporal fusion module is designed to fuse information for downstream tasks. Finally, a lightweight dual-tasks decoder aggregates multi-level features for final prediction. To the best of our knowledge, it is the first time that such a deep Transformer-based network is proposed for multitemporal remote sensing interpretation tasks. The experimental results on the large-scale damage assessment dataset xBD demonstrate the potential of the Transformer-based architecture."
 
@@ -38,7 +38,7 @@ featured: false
 
 url_pdf: https://arxiv.org/abs/2201.10953
 url_code:
-url_dataset:
+url_dataset: https://xview2.org/
 url_poster:
 url_project:
 url_slides:
