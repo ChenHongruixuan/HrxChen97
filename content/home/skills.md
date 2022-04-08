@@ -44,7 +44,7 @@ subtitle = ""
   icon = ""
   icon_pack = ""
   name = "Reviewer"
-  description = "IEEE TIP, IEEE TNNLS, IEEE TGRS, IEEE GRSL, IEEE JSTARS, Pattern Recognition, Neurocomputing" 
+  description = "IEEE TIP, IEEE TNNLS, IEEE TGRS, IEEE GRSL, IEEE JSTARS, Pattern Recognition, Neurocomputing, Geocarto International" 
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
